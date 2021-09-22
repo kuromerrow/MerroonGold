@@ -166,13 +166,15 @@
         "ic_account_circle_grey_24dp": -1788928,
         "ic_account_circle_light_grey_24dp": -1788928,
         "drawable_voice_sensitivity_progress": -4811435,
-        "ic_guild_settings_24dp": -1788928,
+        "ic_guild_settings_24dp": -1283167120,
         "ic_ban_red_24dp": -4631982,
         "ic_user_profile_action_message_grey_a60_24dp": -1788928,
         "ic_user_profile_action_message_white_a60_24dp": -1788928,
         "ic_person_add_new_white_24dp": -1788928,
         "ic_add_friend_plus": -1836815248,
         "ic_user_profile_action_video_grey_a60_24dp": -1836815248,
-        "ic_user_profile_action_video_white_a60_24dp": -1836815248
+        "ic_user_profile_action_video_white_a60_24dp": -1836815248,
+        "ic_refresh_grey_a60_24dp": -1283167120,
+        "ic_refresh_white_a60_24dp": -1283167120
     }
 }
