@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Merrow",
         "name": "(MerroonGold)",
-        "version": "2.2.0",
+        "version": "3.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/kuromerrow\/MerroonGold\/main\/merroongold.json"
     },
     "background": {
@@ -104,7 +104,9 @@
         "primary_560": -14188851,
         "button_material_dark": -1788928,
         "presence_button_text_color": -1788928,
-        "switch_thumb_material_dark": -1788928
+        "switch_thumb_material_dark": -1788928,
+        "uikit_settings_item_text_color_light": -4811435,
+        "uikit_settings_item_text_color_dark": -477860752
     },
     "drawable_tints": {
         "design_bottom_navigation_item_background": -2174536,
@@ -226,6 +228,8 @@
         "ic_remove_friend_red_24dp": -4631982,
         "icon_carrot": -1788928,
         "ic_user_actions_block_white_a60_24dp": -4631982,
-        "ic_user_actions_remove_friend_white_a60_24dp": -4631982
+        "ic_user_actions_remove_friend_white_a60_24dp": -4631982,
+        "drawable_empty_text_placeholder_dark": -1788928,
+        "drawable_empty_text_placeholder_white": -1788928
     }
 }
