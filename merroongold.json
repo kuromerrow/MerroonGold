@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Merrow",
         "name": "(MerroonGold)",
-        "version": "3.8",
+        "version": "4.0",
         "updater": "https:\/\/raw.githubusercontent.com\/kuromerrow\/MerroonGold\/main\/merroongold.json"
     },
     "background": {
