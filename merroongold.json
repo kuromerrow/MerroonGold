@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Merrow",
         "name": "(MerroonGold)",
-        "version": "3.7",
+        "version": "3.8",
         "updater": "https:\/\/raw.githubusercontent.com\/kuromerrow\/MerroonGold\/main\/merroongold.json"
     },
     "background": {
@@ -139,11 +139,13 @@
         "abc_color_highlight_material": -2725874,
         "flexInputIconColorActivated": -2725874,
         "brand_260": -2725874,
-        "abc_btn_colored_borderless_text_material": -2725874
+        "abc_btn_colored_borderless_text_material": -2725874,
+        "white_500": -792364,
+        "status_grey_200": -859711
     },
     "drawable_tints": {
         "design_bottom_navigation_item_background": -2174536,
-        "drawable_button_grey": -4811435,
+        "drawable_button_grey": -8110684,
         "drawable_button_grey_disabled": -4631982,
         "drawable_button_red": -4631982,
         "drawable_overlay_channels_selected_dark": -94879676,
@@ -231,7 +233,7 @@
         "ic_call_toolbar_icon_group": -859711,
         "ic_call_toolbar_icon_minimize": -859711,
         "ic_call_toolbar_icon_minimize_cutout": -859711,
-        "ic_channel_topic_ellipsis_dark": -3824799,
+        "ic_channel_topic_ellipsis_dark": -2673622,
         "ic_ellipsis_16dp": -4811435,
         "ic_content_copy_grey_a60_24dp": -793532269,
         "ic_content_copy_white_a60_24dp": -793532269,
@@ -317,7 +319,9 @@
         "ic_add_reaction_grey_a60_24dp": -14188851,
         "ic_add_reaction_white_a60_24dp": -14188851,
         "ic_reactions_grey_a60_24dp": -14188851,
-        "reactions_divider": -2673622
+        "reactions_divider": -2673622,
+        "drawable_overlay_category_pressed_dark": -4811435,
+        "drawable_overlay_channel_pressed_dark": -4811435
     },
     "raws": {}
 }
